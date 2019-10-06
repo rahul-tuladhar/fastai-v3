@@ -12,7 +12,7 @@ from starlette.staticfiles import StaticFiles
 
 # Use this link to change google drive links 
 # https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
-export_file_url = 'https://www.dropbox.com/s/1v3l4kjitohixye/export.pkl?raw=1'
+export_file_url = 'https://www.dropbox.com/s/1v3l4kjitohixye/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['bipedal', 'drone', 'quadpedal']
